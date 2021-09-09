@@ -16,6 +16,12 @@ In the project directory:
 npm install
 ```
 
+- Generate your Vapid keys and update them in index.js (backend) file
+
+```
+./node_modules/.bin/web-push generate-vapid-keys
+```
+
 - Run command for start server
 
 ```
