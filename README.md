@@ -1,4 +1,4 @@
-# Wep Push Notifications demo app
+# Web Push Notifications demo app
 
 This project is demo project (backend and frontend sides) for demonstating work of web push notifications.
 
